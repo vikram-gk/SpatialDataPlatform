@@ -1,5 +1,5 @@
 
-Clone the Repository First, clone the repository to your local machine using the following command: git clone repo_name
+Clone the repository to your local machine using the following command: git clone repo_name
 Create and Activate a Virtual Environment It's recommended to use a virtual environment to manage dependencies. Run the following commands to create and activate the virtual environment: For Windows:
 
  python -m venv venv
