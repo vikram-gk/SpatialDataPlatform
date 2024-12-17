@@ -12,11 +12,11 @@ For macOS/Linux:
 3)Install the Required Dependencies Once the virtual environment is activated, install the necessary dependencies using pip:
 
  pip install -r requirements.txt
-Run the Application With the environment set up and dependencies installed, you can run the application:
 
-4) Start the mongodb server
+4)Start the mongodb server
 
-5)Run python main.py
+5)Run the Application With the environment set up and dependencies installed, you can run the application:
+Run python main.py
 This command will start the FastAPI application, which will be hosted locally.
 
 Access the API Documentation FastAPI automatically generates interactive API documentation using Swagger. You can access it by navigating to:
